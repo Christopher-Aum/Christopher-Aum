@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi👋, I'm Christopher Aumonte
+
+## I'm an upcoming, inspired software engineer!
+
+# My portfolio -> www.christopheraumonte.com
 
 <!--
 **Christopher-Aum/Christopher-Aum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
