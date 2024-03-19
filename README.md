@@ -4,6 +4,10 @@
 
 ### My portfolio -> www.christopheraumonte.com
 
+### My LinkedIn -> https://www.linkedin.com/in/christopher-aumonte/
+
+### Aside from my passion in coding, I'm also a big tech enthusiast, and a variety gamer!
+
 <!--
 **Christopher-Aum/Christopher-Aum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
