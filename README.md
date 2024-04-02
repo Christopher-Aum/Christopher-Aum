@@ -16,8 +16,15 @@
 
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Christopher Aumonte
 
-## I'm a Full Stack Engineer!
+### 👨‍💻 About Me:
 
+I'm a Full Stack Engineer from 🏖️ Florida!
+
+- I'm an aspiring software engineer that's on the lookout for challenges and work!
+  
+- 🔍 I enjoy researching new ideas and new tools and languages.
+
+- In my free time, I'm a huge 🖥️ tech enthusiast, and a variety 🎮 gamer!
 
 ### 🛠️ Languages and Tools:
 <div>
@@ -34,7 +41,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-### Aside from my passion in coding, I'm also a big 💻 tech enthusiast, and a variety 🎮 gamer!
 <!--
 **Christopher-Aum/Christopher-Aum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
