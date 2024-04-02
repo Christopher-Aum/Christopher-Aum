@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
-  <a href="www.linkedin.com/in/christopher-aumonte">
+  <a href="https://www.linkedin.com/in/christopher-aumonte">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
     <a href='https://www.christopheraumonte.com/'>
@@ -27,6 +27,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg' title='Python' alt='Python' width='40' height='40'/>&nbsp;
+  <img src='https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg' title='SQLAlchemy' alt='SQLAlchemy' width='40' height='40'/>&nbsp;
+  <img src='https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg' title='Flask' alt='Flask' width='40' height='40'/>&nbsp;
+  <img src='https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg' title='Postman' alt='Postman' width='40' height='40'/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
