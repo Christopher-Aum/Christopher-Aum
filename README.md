@@ -26,6 +26,8 @@ I'm a Full Stack Engineer from 🏖️ Florida!
 
 - In my free time, I'm a huge 🖥️ tech enthusiast, and a variety 🎮 gamer!
 
+- Email: ChristopherAumonteSWE@gmail.com
+
 ### 🛠️ Languages and Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
