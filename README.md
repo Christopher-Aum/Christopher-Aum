@@ -20,7 +20,7 @@
 
 I'm a Full Stack Engineer from 🏖️ Florida!
 
-- I'm an aspiring software engineer that's on the lookout for challenges and work!
+- I'm a software engineer that's on the lookout for challenges and work!
   
 - 🔍 I enjoy researching new ideas and new tools and languages.
 
